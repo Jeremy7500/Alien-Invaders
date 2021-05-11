@@ -23,3 +23,4 @@ Journal de bord :
 - 25/04 : finalisation de la pluie de comète
 - 26/04 : création d'un menu d'accueil afin d'affiner la présentation graphique
 - 30/04 : insertion des son de jeu qui ajouteront du realisme au jeu
+.
